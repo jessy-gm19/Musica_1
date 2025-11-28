@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/examen-spotify/static/css/main.c5525596.css",
+    "main.js": "/examen-spotify/static/js/main.53dcb325.js",
+    "index.html": "/examen-spotify/index.html",
+    "main.c5525596.css.map": "/examen-spotify/static/css/main.c5525596.css.map",
+    "main.53dcb325.js.map": "/examen-spotify/static/js/main.53dcb325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5525596.css",
+    "static/js/main.53dcb325.js"
+  ]
+}
